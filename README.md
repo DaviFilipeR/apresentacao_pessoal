@@ -1,0 +1,2 @@
+<h1 align = "center">Apresentação pessoal</h1>
+<p> Este projeto foi desenvolvido durante os cursos de introdução a HTML e CSS da Alura. Seu objetivo é aplicar conceitos fundamentais de estruturação e estilização de páginas web, resultando em uma página de apresentação pessoal. A página apresenta Davi Filipe, desenvolvedor do projeto, destacando informações pessoais e servindo como prática dos conhecimentos adquiridos ao longo do curso.</p>
